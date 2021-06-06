@@ -1,3 +1,3 @@
-# hackerrank-ccip-programs
+# Hackerrank-CCIP-Programs
 
-in this repository we are given some problems on hacker rank from our faculty and seniors
+In this repository we are given some problems on hacker rank from our faculty and seniors of *KIET Group of Institutions, Ghaziabad*
