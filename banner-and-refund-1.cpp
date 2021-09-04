@@ -43,9 +43,6 @@ NO
 //solution//
 
 
-//-----2/3 test case are passed using below solution-------///
-
-
 
 #include <cmath>
 #include <cstdio>
